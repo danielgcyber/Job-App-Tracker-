@@ -45,4 +45,4 @@ Perfect for:
 - Tkinter (usually included with Python)
 
 ### How to run
-create a folder to have the python code in, and run sudo python3 jobapp.py, it will then run the app. 
+Create a folder to have the python code in, and run sudo python3 jobapp.py, it will then run the app. 
